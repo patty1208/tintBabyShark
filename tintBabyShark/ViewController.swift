@@ -98,7 +98,7 @@ class ViewController: UIViewController {
         
     }
     
-    @IBAction func randomButtomPressed(_ sender: UIButton) {
+    @IBAction func randomButtonPressed(_ sender: UIButton) {
         
         redSlider.value = Float.random(in: 0...255)
         greenSlider.value = Float.random(in: 0...255)

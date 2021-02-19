@@ -94,7 +94,7 @@
                                     <color key="titleColor" red="0.0070201167840000002" green="0.2335289717" blue="0.3176584542" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="randomButtomPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Whd-4p-Dze"/>
+                                    <action selector="randomButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lGf-Gq-kMI"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Gradient" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YGz-ph-P1A">
@@ -140,7 +140,7 @@
                                     <imageReference key="image" image="shuffle" catalog="system" symbolScale="large"/>
                                 </state>
                                 <connections>
-                                    <action selector="randomButtomPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IVK-2A-inj"/>
+                                    <action selector="randomButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="a7V-Ee-KIV"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="240" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KjC-z0-8Ze">
